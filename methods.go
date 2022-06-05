@@ -1,5 +1,5 @@
 package pyjs
 
-func doubleNum(number int) int {
+func DoubleNum(number int) int {
 	return number * 2
 }
